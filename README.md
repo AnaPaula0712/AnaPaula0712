@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Ruby, Python and MySQL.
 - 📫 How to reach me campos1984@hotmail.com
 
-## Oiii eu sou a Ana Paula Campos Westphalen!
+## Olá, eu sou a Ana Paula Campos Westphalen!
 <div align="center">
   <a href="https://github.com/AnaPaula0712">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaPaula0712&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
